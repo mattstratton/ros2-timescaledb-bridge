@@ -22,7 +22,7 @@ The person building this (me) is a database person who has never written a ROS n
 
 This is part of a learning-in-public series on dev.to:
 
-- [Post 1: Why I'm Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person) *(you are here)*
+- [Post 1: Why I'm Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce) *(you are here)*
 - Post 2: What's in a bag file (and why the format question matters) — coming soon
 - Post 3: Here's what broke when I tried to store ROS 2 topics in Postgres — coming soon
 - The full tutorial — coming once I've learned enough to actually teach it
