@@ -1,0 +1,46 @@
+# ROS 2 / colcon build artifacts
+build/
+install/
+log/
+
+# ROS 2 bag files (these get big fast)
+*.db3
+*.mcap
+*.bag
+ros_bags/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter (in case you're doing any exploratory analysis)
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Database / credentials (don't ever commit these)
+.env.local
+*.env
+database.ini
+secrets.yaml
